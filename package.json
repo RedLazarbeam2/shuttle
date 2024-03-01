@@ -1,7 +1,7 @@
 {
-  "name": "Youtube",
+  "name": "Proxy",
   "version": "1.0.0",
-  "description": "Unblocker website w/ Ultraviolet",
+  "description": "Unblock",
   "main": "index.js",
   "type": "module",
   "scripts": {
